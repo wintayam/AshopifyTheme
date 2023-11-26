@@ -1,0 +1,169 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "GET THEM SOMETHING\n SPECIAL.",
+            "title_size": 80,
+            "subheading": "They Deserve It.",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop Now",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "",
+            "color_accent": "#edc30a",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/111.png",
+            "image_mobile": "shopify:\/\/shop_images\/111.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP OUR BEST SELLERS",
+        "home_featured_products": "frontpage",
+        "per_row": 3,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "64cd06e3-9d4d-4047-b850-1721c9885736": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Love1_1.jpg",
+        "image2": "shopify:\/\/shop_images\/Love2.jpg",
+        "image_width": 700,
+        "subtitle": "OUR MISSION",
+        "title": "CREATE SPECIAL MOMENTS",
+        "text": "<p>Our mission here at Amour Tokens is to<strong> create one million special moments<\/strong>.<\/p><p>We work hard every day to design, create and bring you unique products that create special moments with people you love and care about.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bracelets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "eternal-flowers",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "necklaces",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "rings",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "23dff74a-b4db-4028-9122-c181cca9f02f": {
+      "type": "testimonials",
+      "blocks": {
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I just bought a engraved bracelet set for my boyfriend's birthday and we both love them.<\/p>",
+            "author": "-ETA La fever",
+            "author_info": ""
+          }
+        },
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I was hesitant after seeing their ad on Facebook but I took the leap and am so happy l did. l got my wife the perfect Christmas gift!<\/p>",
+            "author": "-Mossad",
+            "author_info": ""
+          }
+        },
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Shipping was fast for a company that hand makes their products Quality is spectacular!<\/p>",
+            "author": "Bin am",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-1",
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-2",
+        "template--21636595581248__23dff74a-b4db-4028-9122-c181cca9f02f-testimonial-3"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "64cd06e3-9d4d-4047-b850-1721c9885736",
+    "featured-collections",
+    "23dff74a-b4db-4028-9122-c181cca9f02f"
+  ]
+}
